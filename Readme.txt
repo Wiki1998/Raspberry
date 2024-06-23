@@ -27,3 +27,5 @@ Intial TEST
 
 -make the project in ur machine then paste it to rasp and run through above way.
 ______________________________________________________________________________________________________________________________
+to make scripts executable
+chmod +x configure_eb2200.sh
